@@ -1,0 +1,17 @@
+{
+ "name": "Toni",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "d1b0b572-cebe-2124-075b-fadb79b94d97",
+   "pageId": "d1b0b572-cebe-2124-075b-fadb79b94d97",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "b5d149ec-64ca-34b1-b1a6-0d920a79e38a",
+   "pageId": "b5d149ec-64ca-34b1-b1a6-0d920a79e38a",
+   "type": "page"
+  }
+ ]
+}
